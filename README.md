@@ -1,5 +1,7 @@
 # Pasties
 
+> **Pasties has moved.** It now lives in the [`Pasties/` folder of jonasspira/mac-apps](https://github.com/jonasspira/mac-apps/tree/main/Pasties), with the rest of Jonas's Mac apps. This repository is archived and read-only.
+
 A tiny macOS **menu bar clipboard queue** — copy several things, then paste them
 one at a time in quick succession. Inspired by
 [Paste Queue](https://apprywhere.com/paste-queue.html), but free, open, and
